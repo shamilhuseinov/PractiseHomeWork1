@@ -1,0 +1,12 @@
+/Users/samil/Projects/Academy/Core/bin/Debug/net7.0/Core.deps.json
+/Users/samil/Projects/Academy/Core/bin/Debug/net7.0/Core.dll
+/Users/samil/Projects/Academy/Core/bin/Debug/net7.0/Core.pdb
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.dll
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/Core.pdb
+/Users/samil/Projects/Academy/Core/obj/Debug/net7.0/ref/Core.dll
