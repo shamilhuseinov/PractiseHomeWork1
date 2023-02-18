@@ -10,11 +10,10 @@ namespace Data.Contexts
 	public static class DbContent
 	{
 		static DbContent()
-		{
-			Groups = new List<Group>();
-		}
-		public static List<Group> Groups { get; set; }
-
+	{
+		Groups = new List<Group>();
 	}
+	public static List<Group> Groups { get; set; }
+}
 }
 
