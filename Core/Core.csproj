@@ -10,10 +10,12 @@
     <None Remove="Entities\" />
     <None Remove="Helpers\" />
     <None Remove="Constants\" />
+    <None Remove="Extensions\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Helpers\" />
     <Folder Include="Constants\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
 </Project>

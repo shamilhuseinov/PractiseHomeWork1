@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 namespace Core.Entities
 {
 	public class Group: BaseEntity
-	{ 
+	{
+        public List<Student> Students { get; }
+        public Group()
+		{
+			Students = new List<Student>();
+		}
 		public string Name { get; set; }
 
 		public int MaxSize { get; set; }
@@ -14,6 +19,11 @@ namespace Core.Entities
 		public DateTime StartDate { get; set; }
 
 		public DateTime EndDate { get; set; }
+
+		public Teacher Teacher { get; set; }
+
+		public int TeacherId { get; set; }
+
 	}
 }
 

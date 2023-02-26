@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,13 +8,14 @@ namespace Core.Constants
 {
 	public enum GroupOptions
 	{
-		Exit,
+		GotoMainMenu,
 		CreateGroup,
 		UpdateGroup,
 		DeleteGroup,
 		GetAllGroups,
 		GetGroupById,
-		GetGroupByName
+		GetGroupByName,
+		GetAllGroupsByTeacher
 	}
 }
 

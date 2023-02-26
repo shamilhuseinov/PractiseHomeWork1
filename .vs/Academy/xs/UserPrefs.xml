@@ -1,15 +1,8 @@
 ﻿<Properties StartupConfiguration="{8CA7A7A3-52EB-447B-831C-AA30B287169D}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Services/GroupService.cs">
     <Files>
-      <File FileName="Presentation/Program.cs" Line="109" Column="1" />
-      <File FileName="Presentation/Services/GroupService.cs" Line="1" Column="1" />
+      <File FileName="Presentation/Program.cs" Line="247" Column="1" />
+      <File FileName="Presentation/Services/GroupService.cs" Line="181" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +11,7 @@
             <Node name="Core" expanded="True">
               <Node name="Constants" expanded="True" />
               <Node name="Entities" expanded="True" />
+              <Node name="Extensions" expanded="True" />
               <Node name="Helpers" expanded="True" />
             </Node>
             <Node name="Data" expanded="True">
@@ -37,4 +31,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
